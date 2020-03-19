@@ -19,7 +19,7 @@ permalink: /join-our-team/
 
 <p>We sold about 220 homes last year and there were 8433 single family homes in Fairfield County and 7711 in New Haven county. So 16,144 single family homes sold in New Haven and Fairfield counties last year.</p>
 
-<p>Email me at <a href="mailto:{{site.data.settings.client.email}}">{{site.data.settings.client.email}}</a>  with any questions I can answer for you in my videos. If I pick your question and answer it in the newsletter, I’ll send you a $5 Amazon gift card!</p>
+<p>Email me at <a href="mailto:{{site.data.settings.client.email}}">{{site.data.settings.client.email}}</a>  with any questions I can answer for you in my videos.</p>
 
 <p>Let’s help you grow your business.</p>
 
