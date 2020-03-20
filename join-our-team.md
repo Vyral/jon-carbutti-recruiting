@@ -31,7 +31,7 @@ permalink: /join-our-team/
 
 <p>This newsletter is specifically for real estate agents who want to grow, learn, and want to dominate their market with a local brand and expert presence. If you want to improve yourself, make more money and you feel you can do more and just need the tools, this is for you. This is not for part-time agents who are happy with their income.</p>
 
-<p>This is 100% educational advice. I’d like you to get to know what we’re up to here so we can grow the size of the real estate pie in {{site.data.settings.client.market}}. In the past year, ____ homes SOLD in our {{site.data.settings.client.market}} market, so there is plenty of business to go around.</p>
+<p>This is 100% educational advice. I’d like you to get to know what we’re up to here so we can grow the size of the real estate pie in {{site.data.settings.client.market}}. In the past year, 220 homes SOLD in our {{site.data.settings.client.market}} market, so there is plenty of business to go around.</p>
 
 <p>SPECIAL NEW SUBSCRIBER BONUS</p>
 
