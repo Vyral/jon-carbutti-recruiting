@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why Staying in a Routine Is Essential to Real Estate Success
-date:
+date: 2020-03-24 20:52:51
 tags:
 excerpt: >-
   Successful agents are accountable, and they also stick to a routine. Here’s
