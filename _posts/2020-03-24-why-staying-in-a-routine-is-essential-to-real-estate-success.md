@@ -17,6 +17,7 @@ youtube_code: rQhRe2EL8YM
 ---
 
 {% include youtube.html %}
+<p style="text-align: center;"><em>Successful agents are accountable, and they also stick to a routine. Here’s how the top agents on our team do it.</em></p>
 
 In order to take your career in real estate to the next level, you need to stay in a routine. It’s a simple concept, but as someone who has been in real estate for 22 years, **one common thread among successful agents is accountability.&nbsp;**
 
