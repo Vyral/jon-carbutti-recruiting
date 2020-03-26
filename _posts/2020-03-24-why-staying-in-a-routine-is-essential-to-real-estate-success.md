@@ -27,6 +27,6 @@ Everyone on our team understands their role. We have an inside sales department,
 
 {% include pullquote.html %}
 
-Real estate is all about dollar-producing activities and non dollar-producing activities. I believe **we’ve done a great job of training our agents on those dollar-producing activities and how best to execute them.**
+Real estate is all about dollar-producing activities and non-dollar-producing activities. I believe **we’ve done a great job of training our agents on those dollar-producing activities and how best to execute them.**
 
 If you have any questions for me about what we do, or if you're interested in bringing your real estate career to the next level, don’t hesitate to reach out by giving me a call or sending an email. I look forward to hearing from you.
