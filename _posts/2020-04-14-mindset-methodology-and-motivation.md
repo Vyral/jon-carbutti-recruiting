@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mindset, Methodology, and Motivation'
-date:
+date: 2020-04-14 15:37:02
 tags:
 excerpt: >-
   Listening to practical and motivating podcasts in the morning can make a
