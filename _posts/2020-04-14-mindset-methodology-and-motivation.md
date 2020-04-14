@@ -18,8 +18,7 @@ youtube_code: nDicRRQbsZU
 
 {% include youtube.html %}
 
-Listening to practical and motivating podcasts in the morning can make a difference. Here’s how. &nbsp;
-
+<p style="text-align: center;"><em>Listening to practical and motivating podcasts in the morning can make a difference. Here’s how.</em></p>
 I’ve been in real estate for 22 years, and recently, I’ve enjoyed getting back to the basics of it all; **I’ve been starting my days by focusing on mindset.** Motivational podcasts have been a huge part of my intellectual diet, and some really good ones include Brian Buffini’s podcast and a program titled Real Estate Success Calls. Both have so much to offer newer agents.&nbsp;
 
 {% include pullquote.html %}
