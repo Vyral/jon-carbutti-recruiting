@@ -26,4 +26,4 @@ I’ve been in real estate for 22 years, and recently, I’ve enjoyed getting ba
 
 In the latter podcast, real-life agents talk about how they’ve been exactly where you are now in your real estate career and how they were able to take things to the next level—the methodology, the motivations, and every little thing in between. **Just by getting your mind right in the morning by listening to these podcasts before starting your workday, you will see an exponential growth over time.** Mindset molds how the rest of your day will go.&nbsp;
 
-If you would like to sit down and have an honest and vulnerable conversation about your real estate business, don’t hesitate to reach out to me by phone or email. I’d love to hear from you and discuss how to make the leap from amateur to pro.
+If you would like to have an honest and vulnerable conversation about your real estate business, don’t hesitate to reach out to me by phone or email. I’d love to hear from you and discuss how to make the leap from amateur to pro.
