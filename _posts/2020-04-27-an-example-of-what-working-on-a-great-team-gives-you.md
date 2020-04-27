@@ -21,7 +21,7 @@ youtube_code: cS9A9reM58g
 
 {% include youtube.html %}&nbsp;
 
-If you’re on a real estate team like ours, you’re part of a well-oiled machine that helps everyone do more business. Here are just a few of the benefits of being on our team.
+<p style="text-align: center;"><em>If you’re on a real estate team like ours, you’re part of a well-oiled machine that helps everyone do more business. Here are just a few of the benefits of being on our team.</em></p>
 
 On this edition of our agent training blog, we’re doing something a little bit different. I’m pulling into a house in Oxford on Holley Rd. that we just sold for $15,000 over asking price. **The ironic part is that right now is the first time I’m actually seeing the property in person.**
 
