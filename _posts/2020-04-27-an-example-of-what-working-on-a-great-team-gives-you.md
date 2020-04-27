@@ -1,7 +1,7 @@
 ---
 layout: post
 title: An Example of What Working on a Great Team Gives You
-date:
+date: 2020-04-27 16:59:02
 tags:
 excerpt: >-
   If you’re on a real estate team like ours, you’re part of a well-oiled machine
