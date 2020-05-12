@@ -15,9 +15,9 @@ youtube_alternate_image:
 youtube_code: 9-7ghMSRtac
 ---
 
-{% include youtube.html %}&nbsp;&nbsp;
+{% include youtube.html %}
 
-We’ve made changes to continue helping our clients amid COVID-19.
+<p style="text-align: center;"><em>We’ve made changes to continue helping our clients amid COVID-19.</em></p>
 
 The last few weeks have been difficult because of the global pandemic and what’s going on in the real estate market. We all wait for the spring market every year, and this time it’s been disrupted. Remarkably, despite that, our team just experienced the busiest April we’ve had in three years, and we haven’t missed a beat. We’re doing some things a bit differently right now in regard to how we’re running our business.
 
