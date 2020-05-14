@@ -31,12 +31,12 @@ sidebar_CTA:
     CTA_link_text: "Send a Private Email"
     CTA_url: mailto:jonathan.carbutti@gmail.com
 
-# second_sidebar_CTA:
-#   - CTA_image_path2: /img/cta-images/002.jpg
-#     CTA_title2: "Join Our Team"
-#     CTA_text2: "Sell more homes by joining forces with the our dynamic real estate company."
-#     CTA_link_text2: "Career Info"
-#     CTA_url2: /
+second_sidebar_CTA:
+  - CTA_image_path2: /img/cta-images/002.png
+    CTA_title2: "Career Night"
+    CTA_text2: "We would like to invite you to our next career night on May 21st. You'll get the chance to ask questions, meet our team and get a feel for what working for Carbutti & Co. is all about. Please register at the link below. We looking forward to meeting you!"
+    CTA_link_text2: "More Info"
+    CTA_url2: https://www.eventbrite.com/e/104468817044
 
 lender:
   show_section: false
