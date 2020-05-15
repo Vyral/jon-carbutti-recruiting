@@ -29,4 +29,4 @@ We also have virtual home selling webinars every Thursday evening at 6:30. I can
 
 If any of you are considering a career in real estate, it’s not the time to put your plans on hold. This is the time to get into the real estate market because it’s alive and well.&nbsp;
 
-If you want to talk about your business with me, call or email any time. Also, reach out if you have any questions. I would love to help you.
+If you want to talk about your business with me, call or email anytime. Also, reach out if you have any questions. I would love to help you.
