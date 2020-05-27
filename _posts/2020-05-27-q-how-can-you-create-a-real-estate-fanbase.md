@@ -18,7 +18,7 @@ youtube_code: K9wrXypKeiA
 
 {% include youtube.html %}&nbsp;
 
-Be sure to leverage the power of video and social media to your advantage.
+<p style="text-align: center;"><em>Be sure to leverage the power of video and social media to your advantage.</em></p>
 
 You aren’t in the real estate business—you’re in the people business. That’s something that many real estate agents need to be reminded of. As agents, we’re also in the branding and marketing business.
 
