@@ -1,12 +1,13 @@
 ---
 layout: post
 title: 'Q: How Can You Create a Real Estate Fanbase?'
-date:
+date: 2020-05-27 17:03:55
 tags:
   - Lead Generation
   - Buyer Prospects
-excerpt:
-enclosure:
+excerpt: Be sure to leverage the power of video and social media to your advantage.
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jonathan+Carbutti/Q-+How+Can+You+Create+a+Real+Estate+Fanbase_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
@@ -16,6 +17,8 @@ youtube_code: K9wrXypKeiA
 ---
 
 {% include youtube.html %}&nbsp;
+
+Be sure to leverage the power of video and social media to your advantage.
 
 You aren’t in the real estate business—you’re in the people business. That’s something that many real estate agents need to be reminded of. As agents, we’re also in the branding and marketing business.
 
