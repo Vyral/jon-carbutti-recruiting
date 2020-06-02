@@ -36,7 +36,7 @@ second_sidebar_CTA:
     CTA_title2: "Career Night"
     CTA_text2: "We would like to invite you to our next career night on June 25th. You'll get the chance to ask questions, meet our team and get a feel for what working for Carbutti & Co. is all about. Please register at the link below. We looking forward to meeting you!"
     CTA_link_text2: "Register Here"
-    CTA_url2: https://www.eventbrite.com/e/104468817044
+    CTA_url2: http://www.meetcarbutti.com/
 
 lender:
   show_section: false
