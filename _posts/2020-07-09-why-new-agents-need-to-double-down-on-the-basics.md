@@ -15,7 +15,7 @@ youtube_code: _Qp1JUM8I_0
 
 {% include youtube.html %}
 
-*The market is booming—but don’t get complacent, agents.*
+<p style="text-align:center;"><em>The market is booming—but don’t get complacent, agents.</em></p>
 
 Yes, the market is booming, and yes, houses are flying off the shelves. To some of the newer agents to the business, the real estate industry might almost seem easy—all they have to do is put a house on the market and they can sell it in a day. However, today I want to remind all of you that this is not a typical real estate market.&nbsp;
 
