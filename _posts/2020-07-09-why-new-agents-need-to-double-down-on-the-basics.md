@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why New Agents Need to Double Down on the Basics
-date: 2020-07-10 01:13:11
+date: 2020-07-09 01:13:00
 tags:
 excerpt: 'The market is booming—but don’t get complacent, agents.'
 enclosure:
@@ -15,7 +15,7 @@ youtube_code: _Qp1JUM8I_0
 
 {% include youtube.html %}
 
-<p style="text-align:center;"><em>The market is booming—but don’t get complacent, agents.</em></p>
+*The market is booming—but don’t get complacent, agents.*
 
 Yes, the market is booming, and yes, houses are flying off the shelves. To some of the newer agents to the business, the real estate industry might almost seem easy—all they have to do is put a house on the market and they can sell it in a day. However, today I want to remind all of you that this is not a typical real estate market.&nbsp;
 
