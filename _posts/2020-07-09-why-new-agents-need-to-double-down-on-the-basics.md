@@ -4,7 +4,7 @@ title: Why New Agents Need to Double Down on the Basics
 date: 2020-07-09 01:13:00
 tags:
 excerpt: 'The market is booming—but don’t get complacent, agents.'
-enclosure:
+enclosure: https://vyralmarketing.s3.amazonaws.com/Jonathan+Carbutti/The+Market+Is+Booming.mp4
 pullquote: This is not a typical real estate market.
 enclosure_type: video/mp4
 enclosure_time:
