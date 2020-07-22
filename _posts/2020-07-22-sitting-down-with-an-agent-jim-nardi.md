@@ -20,7 +20,7 @@ youtube_code: 8rl92CAGzzM
 
 {% include youtube.html %}
 
-Realtor Jim Nardi sat down with us to tell us about his journey to becoming a real estate professional.
+<p style="text-align:center;"><em>Realtor Jim Nardi sat down with us to tell us about his journey to becoming a real estate professional.</em></p>
 
 Jim Nardi graduated from Western Connecticut State University where he played football for four years. He likes being in disciplined environments, which came in handy for his career as a Realtor.
 
