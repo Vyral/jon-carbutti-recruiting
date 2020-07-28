@@ -24,11 +24,11 @@ youtube_code: 8rl92CAGzzM
 
 Jim Nardi graduated from Western Connecticut State University where he played football for four years. He likes being in disciplined environments, which came in handy for his career as a Realtor.
 
-When he decided to work in real estate, Jim was looking for a team environment, which is just what he got here at Carbutti Realtors. He didn’t see that other brokerages offered the same kind of support that we offered him here.
-
-&nbsp;{% include pullquote.html %}
+When he decided to work in real estate, Jim was looking for a team environment, which is just what he got here at Carbutti Realtors. He didn’t see other brokerages offer the same kind of support that we do here.
 
 **One of the hardest parts of getting involved with the business was getting on the phone to make cold calls.** It’s not an easy process; he knew it would be hard work, but even still, he underestimated just how hard it would be. In the end, however, the support he received helped him boost his confidence. It took a few months for him to get the hang of it, but his hard work paid off.
+
+{% include pullquote.html %}
 
 If you have any questions about what life is like for agents on the Carbutti Realtors Team, don’t hesitate to reach out to us. We’d love to tell you more about how we provide structure and support to all our professionals.
 
