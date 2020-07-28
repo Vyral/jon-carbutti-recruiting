@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   Realtor Jim Nardi sat down with us to tell us about his journey to becoming a
   real estate professional.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jonathan+Carbutti/Q-+Whats+It+Like+to+Work+On+Our+Team_.mp4
 pullquote: >-
   Jim was looking for a team environment, which is just what he got here at
   Carbutti Realtors.
