@@ -1,6 +1,6 @@
 ---
 layout: post
-title: I Want to Help New Agents Thrive
+title: 'Q: Is Your Business Flourishing?'
 date: 2020-08-24 18:07:00
 tags:
 excerpt: 'No matter if you’re new or established, we want to help your business grow.'
