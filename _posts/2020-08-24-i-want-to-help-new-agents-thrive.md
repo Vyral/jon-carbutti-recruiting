@@ -4,7 +4,8 @@ title: I Want to Help New Agents Thrive
 date: 2020-08-24 18:07:00
 tags:
 excerpt: 'No matter if you’re new or established, we want to help your business grow.'
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jonathan+Carbutti/To+all+the+New+Agents+in+the+CT+Real+Estate+Market.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
