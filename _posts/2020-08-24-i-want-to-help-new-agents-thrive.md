@@ -1,10 +1,8 @@
 ---
 layout: post
 title: I Want to Help New Agents Thrive
-date:
+date: 2020-08-24 18:07:44
 tags:
-  - Real Estate
-  - Real Estate Tips
 excerpt: 'No matter if you’re new or established, we want to help your business grow.'
 enclosure:
 pullquote:
