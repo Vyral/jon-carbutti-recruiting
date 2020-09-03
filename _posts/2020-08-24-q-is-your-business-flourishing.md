@@ -16,7 +16,7 @@ youtube_code: FubaKWVjshQ
 
 {% include youtube.html %}
 
-No matter if you’re new or established, we want to help your business grow.
+<p style="text-align: center;"><em>No matter if you’re new or established, we want to help your business grow.</em></p>
 
 {% include full-post-cta.html %}
 
