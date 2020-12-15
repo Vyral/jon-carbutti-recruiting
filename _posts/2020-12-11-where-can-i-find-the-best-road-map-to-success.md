@@ -5,7 +5,7 @@ date: 2020-12-11 19:03:00
 tags:
   - Real Estate Agents
 excerpt: Here’s how we can help you get started on the right foot in 2021.
-enclosure:
+enclosure: https://vyralmarketing.s3.amazonaws.com/Jonathan+Carbutti/Where+Can+I+Find+the+Best+Road+Map+to+Success_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
