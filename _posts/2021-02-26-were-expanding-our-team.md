@@ -17,7 +17,7 @@ youtube_code:
 
 {% include youtube.html %}
 
-Our real estate team is growing.
+<p style="text-align: center;"><em>Our real estate team is growing.</em></p>
 
 Welcome back to our agent training blog, where we bring you relevant information to increase your business and sell more homes in 2021. Today I want to talk about how our team has been growing and why working with a real estate team is often better than working as a solo agent
 
