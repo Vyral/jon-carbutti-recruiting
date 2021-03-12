@@ -15,7 +15,7 @@ youtube_code: EwTtsxrYrl8
 ---
 {% include youtube.html %}
 
-New agent Nicholas Tarquino shares why our team was the right fit for him.
+<p style="text-align: center;"><em>New agent Nicholas Tarquino shares why our team was the right fit for him.</em></p>
 
 My name is Nicholas Tarquino, and I’ve been in real estate for about two months now. I think I was made for real estate because I’m a people person. I love talking to people and looking at homes with them.&nbsp;
 
