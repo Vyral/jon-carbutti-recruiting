@@ -15,11 +15,11 @@ youtube_code: EwTtsxrYrl8
 ---
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>New agent Nicholas Tarquino shares why our team was the right fit for him.</em></p>
+*New agent Nicholas Tarquino shares why our team was the right fit for him.*
 
 My name is Nicholas Tarquino, and I’ve been in real estate for about two months now. I think I was made for real estate because I’m a people person. I love talking to people and looking at homes with them.&nbsp;
 
-People get excited about starting their buying or selling journeys, but a lot of them are not informed. It’s a great feeling to be there for them, pointing things out and educating them along the way. When you have the privilege of calling them up and telling them that their offer was accepted, **that joy is contagious. **
+People get excited about starting their buying or selling journeys, but a lot of them are not informed. It’s a great feeling to be there for them, pointing things out and educating them along the way. When you have the privilege of calling them up and telling them that their offer was accepted, **that joy is contagious.&nbsp;**
 
 {% include pullquote.html %}
 
@@ -29,7 +29,7 @@ There is a real sense of family; I always have someone to turn to if needed. It�
 
 The one piece of advice I would give to anyone who’s looking to enter real estate is to **show up every day—show up for yourself, your company, and your team.** You can be the kind of agent you want to be. You get back out what you put into it.&nbsp;
 
-My next 12-month commitments are to help 20 families find their dream home, get a new car, and travel with family. I’m so excited for what’s ahead here at Carbutti & Co.\!&nbsp;
+My next 12-month commitments are to help 20 families find their dream homes, get a new car, and travel with family. I’m so excited for what’s ahead here at Carbutti & Co.\!&nbsp;
 
 *If you’d like to hear more from Nicholas or any of the fabulous agents that call Carbutti & Co. home, don’t hesitate to reach out to us by phone or email. We’d love the opportunity to tell you more about the benefits of having a real estate career guided and informed by an experienced team that cares.&nbsp;*
 
