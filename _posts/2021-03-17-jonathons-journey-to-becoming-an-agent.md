@@ -15,7 +15,7 @@ youtube_code: 7tncB5EGdkI
 ---
 {% include youtube.html %}
 
-*Here’s new agent Jonathon’s journey into real estate in his own words.*
+<p style="text-align: center;"><em>Here’s new agent Jonathon’s journey into real estate in his own words.</em></p>
 
 My name is Jonathon Corriveau, and I chose a career in real estate because my daughter was an infant, so I wanted a career that would allow me to support her and make money working for myself and not someone else. I had a retail background; I worked at Best Buy and Firestone, and I was selling people plenty of things they didn’t need. **I was a good salesman, but I wanted to sell people things they truly needed**, so I thought real estate would be the right career for me. There are many naysayers when you try to get into a career in real estate, but what was crucial for me was finding that one person who told me to go for it, and I stayed around that person.
 
