@@ -19,7 +19,7 @@ youtube_code: 6whw5ST_ihU
 
 Today I want to talk about Ryan Serhant’s brand-new book, “Big Money Energy: How to Rule at Work, Dominate at Life, and Make Millions.”
 
-**For any of you who are not familiar with Ryan, he’s the No. 1 real estate broker in NYC and the star of Bravo’s “Million Dollar Listing: NYC.”** He’s a great, humble, and charitable guy. He actually did a 30-minute Zoom call with my entire team recently and we were blown away by his generosity and some of the tips he was sharing.
+**For any of you who are not familiar with Ryan, he’s the No. 1 real estate broker in NYC and the star of Bravo’s “Million Dollar Listing: NYC.”** He’s a great, humble, and charitable guy. He did a 30-minute Zoom call with my entire team recently and we were blown away by his generosity and some of the tips he was sharing.
 
 {% include pullquote.html %}
 
