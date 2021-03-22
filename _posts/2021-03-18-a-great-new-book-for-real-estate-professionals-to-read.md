@@ -25,6 +25,6 @@ Today I want to talk about Ryan Serhant’s brand-new book, “Big Money Energy:
 
 If you haven’t bought this book yet, I have great news. I bought 100 pre-release copies and have 46 of them left. **If you want a copy, reach out to me via phone or email and I’ll get it sent out to you.** It’s not just for real estate salespeople. It’s a great book for entrepreneurs, business owners, and more. It was a great read and super relatable.
 
-If you have any other questions for me about the book or about the real estate business in general, don’t hesitate to reach out via phone or email. I look forward to hearing from you soon.
+If you have any other questions for me about the book or the real estate business in general, don’t hesitate to reach out via phone or email. I look forward to hearing from you soon.
 
 {% include full-post-cta.html %}
