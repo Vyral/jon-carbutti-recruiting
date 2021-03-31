@@ -1,11 +1,12 @@
 ---
 layout: post
 title: Our Interview With Nicholas Tarquino
-date: 2021-03-12 09:00:00
+date: 2021-03-31 09:00:00
 tags:
   - Reviews and Referrals
 excerpt: New agent Nicholas Tarquino shares why our team was the right fit for him.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jonathan+Carbutti/Our+Interview+With+Nicholas+Tarquino.mp4
 pullquote: I always have someone to turn to if needed.
 enclosure_type: video/mp4
 enclosure_time:
@@ -15,7 +16,7 @@ youtube_code: EwTtsxrYrl8
 ---
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>New agent Nicholas Tarquino shares why our team was the right fit for him.</em></p>
+*New agent Nicholas Tarquino shares why our team was the right fit for him.*
 
 My name is Nicholas Tarquino, and I’ve been in real estate for about two months now. I think I was made for real estate because I’m a people person. I love talking to people and looking at homes with them.&nbsp;
 
