@@ -1,11 +1,12 @@
 ---
 layout: post
 title: A Great New Book for Real Estate Professionals to Read
-date: 2021-03-18 09:00:00
+date: 2021-04-14 09:00:00
 tags:
   - Lead Generation
 excerpt: Here’s a quick look at a new book from NYC’s No. 1 real estate broker.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jonathan+Carbutti/A+Great+New+Book+for+Real+Estate+Professionals+to+Read.mp4
 pullquote: It’s a great book for entrepreneurs and business owners.
 enclosure_type: video/mp4
 enclosure_time:
