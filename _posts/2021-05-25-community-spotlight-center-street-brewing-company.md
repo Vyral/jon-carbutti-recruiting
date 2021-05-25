@@ -11,7 +11,7 @@ pullquote: Vibrant groups of all ages visit Center Street Brewing Company.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image:
+youtube_alternate_image: /uploads/small-business-spotlight-center-street-brewing-company-ss.jpg
 youtube_code: zDJuERDgmsY
 ---
 {% include youtube.html %}
