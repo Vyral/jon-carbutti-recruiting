@@ -1,11 +1,12 @@
 ---
 layout: post
 title: 'Community Spotlight: Center Street Brewing Company'
-date: 2021-05-25 18:13:18
+date: 2021-05-25 18:13:00
 tags:
   - Reviews and Referrals
 excerpt: We’re excited to highlight one of our favorite Wallingford breweries today.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jonathan+Carbutti/Community+Spotlight%3A+Center+Street+Brewing+Company.mp4
 pullquote: Vibrant groups of all ages visit Center Street Brewing Company.
 enclosure_type: video/mp4
 enclosure_time:
