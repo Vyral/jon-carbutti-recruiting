@@ -21,10 +21,10 @@ Welcome back to our agent training blog. We're excited to continue bringing you 
 
 {% include pullquote.html %}
 
-**Our agents are thriving.** The new agents in this marketplace have such a level playing field these days. Some of our newer agents are actually our best agents. We have a 26-year-old agent who joined my team in January and has 23 sales already. Another agent who joined us two months ago has three pending sales and they're working on their fourth right now, which will be under contract by the end of this week.
+**Our agents are thriving.** The new agents in this marketplace have such a level playing field these days. Some of our newer agents are actually our best agents. We have a 26-year-old agent who joined my team in January and has 23 sales already. Another agent who joined us two months ago has three pending sales, and they're working on their fourth right now, which will be under contract by the end of this week.
 
-There's a misconception out there that when you're getting into real estate and interviewing real estate brokers, that you need to find a big-name team. It’s just not true. **Our team has leads, seller and buyer opportunities on a daily basis for our agents, and excellent support staff.**
+There's a misconception out there that you need to find a big-name team when getting into real estate and interviewing brokers. It’s just not true. **Our team has leads, seller and buyer opportunities on a daily basis for our agents, and excellent support staff.**
 
-If you're thinking about a career in real estate or you're looking for a great real estate brokerage to interview with, call us directly at 203-980-6886 or go to [carbuttirealestate.com](https://www.carbuttirealestate.com/)and we’ll get back to you quickly.
+If you're thinking about a career in real estate or you're looking for a great real estate brokerage to interview with, call us directly at 203-980-6886 or go to [carbuttirealestate.com](https://www.carbuttirealestate.com/)&nbsp;and we’ll get back to you quickly.
 
 {% include full-post-cta.html %}
