@@ -23,7 +23,7 @@ Chelsea Beedle chose a career in real estate because she required more flexibili
 
 **Here’s what she had to say about her decision to join our team:**
 
-*“When I was interviewing agencies, I knew right off the bat that Carbutti was who I wanted to sign with. Before even walking out the door, I had a feeling of team and family. I felt like I could trust them, and this is exactly what I wanted to do. I was actually surprised with how much of the opportunities, client opportunities, lead generation, and valuable resources that I could use.”&nbsp;*
+*“When I was interviewing agencies, I knew right off the bat that Carbutti was who I wanted to sign with. Before even walking out the door, I had a feeling of team and family. I felt like I could trust them, and this is exactly what I wanted to do. I was actually surprised with how many of the opportunities, client opportunities, lead generation, and valuable resources that I could use.”&nbsp;*
 
 **Her advice for agents who are weighing their options:**
 
