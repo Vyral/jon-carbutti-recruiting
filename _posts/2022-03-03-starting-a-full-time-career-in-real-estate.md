@@ -8,8 +8,8 @@ tags:
 excerpt: Here’s the story of how our own Sean Doran started his career with us.
 enclosure:
 pullquote: >-
-  His advice for those getting into real estate for the first time is, “Be ready
-  for a full-time adventure.”
+  His advice for those getting into real estate for the first time is, 'Be ready
+  for a full-time adventure.'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
@@ -26,7 +26,7 @@ Hailing from Wallingford, Connecticut, Sean has an interesting background. He or
 
 {% include pullquote.html %}
 
-Sean had multiple companies reach out to him to join their teams, but we had helped him sell his house, and he decided to join us. It took him some time to adjust to the business, but once those adjustments were made and he developed a pipeline of leads, he found success pretty quickly. **In the first 40 days of 2022, Sean closed three deals and had four or five under contract.**
+Sean had multiple companies reach out to him to join their teams, but we had helped him sell his house, so he decided to join us. It took him some time to adjust to the business, but once those adjustments were made and he developed a pipeline of leads, he found success pretty quickly. **In the first 40 days of 2022, Sean closed three deals and had four or five under contract.**
 
 Sean has found that access to leadership, training, lead generation, and marketing tools is what sets Carbutti & Co. Realtors apart from the rest. **His advice for those getting into real estate for the first time is, “Be ready for a full-time adventure.”**
 
