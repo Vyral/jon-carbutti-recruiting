@@ -28,10 +28,8 @@ Hailing from Wallingford, Connecticut, Sean has an interesting background. He or
 
 Sean had multiple companies reach out to him to join their teams, but we had helped him sell his house, so he decided to join us. It took him some time to adjust to the business, but once those adjustments were made and he developed a pipeline of leads, he found success pretty quickly. **In the first 40 days of 2022, Sean closed three deals and had four or five under contract.**
 
-Sean has found that access to leadership, training, lead generation, and marketing tools is what sets Carbutti & Co. Realtors apart from the rest. **His advice for those getting into real estate for the first time is, “Be ready for a full-time adventure.”**
+Sean has found that access to leadership, training, lead generation, and marketing tools are what set Carbutti & Co. Realtors apart from the rest. **His advice for those getting into real estate for the first time is, “Be ready for a full-time adventure.”**
 
 If you have any questions about starting a career in real estate or what you could gain from joining us here at Carbutti & Co. Realtors, don’t hesitate to reach out to us by phone or email. We’d love to hear from you.
-
-quote.html %\}
 
 {% include full-post-cta.html %}
