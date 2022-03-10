@@ -6,7 +6,8 @@ tags:
   - Our Team
   - Real Estate
 excerpt: Here’s the story of how our own Sean Doran started his career with us.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jonathan+Carbutti/Starting+a+Full-Time+Career+in+Real+Estate.mp4
 pullquote: >-
   His advice for those getting into real estate for the first time is, 'Be ready
   for a full-time adventure.'
