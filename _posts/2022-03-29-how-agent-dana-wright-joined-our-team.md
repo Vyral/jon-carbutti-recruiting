@@ -6,7 +6,8 @@ tags:
   - Our Team
   - Real Estate
 excerpt: Here’s how agent Dana Wright made the switch to a career in real estate.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jonathan+Carbutti/How+Agent+Dana+Wright+Joined+Our+Team.mp4
 pullquote: She's now her own boss and sets her own schedule.
 enclosure_type: video/mp4
 enclosure_time:
