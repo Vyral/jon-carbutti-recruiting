@@ -6,7 +6,8 @@ tags:
   - Join Our Team
   - Real Estate
 excerpt: If you’re an agent looking to advance your business, we’re hiring.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jonathan+Carbutti/We+Can+Help+You+Sell+More+Homes+Faster.mp4
 pullquote: >-
   The added support, training, and resources that a team provides are powerful
   assets on the path to success.
@@ -22,7 +23,7 @@ youtube_code: tnl8YdZTvxQ
 
 I’ve always said that agents can do more together than we can individually. That’s not to say that agents can’t be successful by themselves, but the added support, training, and resources that a team provides are powerful assets on the path to success. If you’re looking to take your business to the next level and would benefit from a team environment, **Carbutti & Co Realtors are hiring\!**
 
-Our team went from $11 million in closed production for Q1 of last year to over $24 million closed in Q1 of this year. That increase is a testament to the power of our team dynamic.&nbsp;
+Our team went from $11 million in closed production for Q1 of last year to over $24 million closed in Q1 of this year. That increase is a testament to the power of our team dynamic.
 
 {% include pullquote.html %}
 
