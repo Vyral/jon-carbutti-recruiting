@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/career-night-carbutti-yt.jpg
-youtube_code: VZsD0dbBWy0
+youtube_code: UZFZTfh0F1Q
 ---
 {% include youtube.html %}
 
