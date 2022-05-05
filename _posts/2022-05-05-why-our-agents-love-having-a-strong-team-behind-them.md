@@ -28,6 +28,6 @@ Sean Doran liked the access to leadership, training, lead generation, and market
 
 If being a part of a real estate team feels right for you, **join us for our next Carbutti Career Night on Thursday, May 12, at 6:00 p.m. at our office (707 Main Street, Branford, CT).**&nbsp;
 
-In the meantime, visit us online at [meetcarbutti.com](http://meetcarbutti.com/){: target="_blank" rel="noopener"} for more details about the event or reach out to us via phone or email today. We look forward to hearing from you.
+In the meantime, visit us online at **<u><a target="_blank" rel="noopener" href="http://meetcarbutti.com/">meetcarbutti.com</a></u>** for more details about the event or reach out to us via phone or email today. We look forward to hearing from you.
 
 {% include full-post-cta.html %}
