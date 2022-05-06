@@ -6,7 +6,8 @@ tags:
   - Our Team
   - Real Estate
 excerpt: Join us at our upcoming career night and see the benefits of a strong team.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jonathan+Carbutti/Why+Our+Agents+Love+Having+a+Strong+Team+Behind+Them.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
@@ -18,7 +19,7 @@ youtube_code: UZFZTfh0F1Q
 
 {% include excerpt.html %}
 
-There’s power in having a strong real estate team behind you. I’m not talking about buyers and sellers—I’m talking about real estate agents.&nbsp;**The days of being a one-person show are over in this business**, and there is great power in leveraging yourself behind an experienced real estate team to become successful.
+There’s power in having a strong real estate team behind you. I’m not talking about buyers and sellers—I’m talking about real estate agents. **The days of being a one-person show are over in this business**, and there is great power in leveraging yourself behind an experienced real estate team to become successful.
 
 Chelsea Beedle knew right off the bat that she wanted to sign with us before walking out the door. She felt like family to us, and she knew that she could trust us in return.
 
@@ -26,7 +27,7 @@ Another agent, Chris Farrell, was most impressed by our tools. From the mid-leve
 
 Sean Doran liked the access to leadership, training, lead generation, and marketing. There’s nothing like this that he’s seen from any other local company.
 
-If being a part of a real estate team feels right for you, **join us for our next Carbutti Career Night on Thursday, May 12, at 6:00 p.m. at our office (707 Main Street, Branford, CT).**&nbsp;
+If being a part of a real estate team feels right for you, **join us for our next Carbutti Career Night on Thursday, May 12, at 6:00 p.m. at our office (707 Main Street, Branford, CT).**
 
 In the meantime, visit us online at **<u><a target="_blank" rel="noopener" href="http://meetcarbutti.com/">meetcarbutti.com</a></u>** for more details about the event or reach out to us via phone or email today. We look forward to hearing from you.
 
