@@ -7,11 +7,13 @@ tags:
   - Real Estate
 excerpt: Here’s how Carrie’s experience with our team has been so far.
 enclosure:
-pullquote: Even now, Carrie is surprised by the amount of support she receives.
+pullquote: >-
+  You might be able to do everything yourself, but that doesn’t necessarily mean
+  you should.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/cassie-brainerd-carbutti-yt.jpg
+youtube_alternate_image: /uploads/carrie-brainerd-carbutti-yt.jpg
 youtube_code: RUhk3s26CHo
 ---
 {% include youtube.html %}
@@ -26,9 +28,9 @@ After working there for a few years, she figured she was ready to get her licens
 
 {% include pullquote.html %}
 
-Carrie has worked as a solo agent before, and it was fine. She knew what she was doing and made ends meet. However, after joining the Carbuttin team, she sees the industry in an entirely different light. According to her, **you might be able to do everything yourself, but that doesn’t necessarily mean you should.** All the time the Carbutti Team saves her allows her to get out and make more money.&nbsp;
+Carrie has worked as a solo agent before, and it was fine. She knew what she was doing and made ends meet. However, after joining the Carbutti team, she sees the industry in an entirely different light. According to her, **you might be able to do everything yourself, but that doesn’t necessarily mean you should.** All the time the Carbutti Team saves her allows her to get out and make more money.&nbsp;
 
-The Carbutti Team also encourages their agents to put themselves out there on social media, and Carrie really appreciates that. A lot of people are afraid to shoot videos or make posts, but **it’s been a very positive experience for her.** People she doesn’t even know reach out to her because they saw a video, and it’s taken her business to the next level.&nbsp;
+We also encourage our agents to put themselves out there on social media, and Carrie really appreciates that. A lot of people are afraid to shoot videos or make posts, but **it’s been a very positive experience for her.** People she doesn’t even know reach out to her because they saw a video, and it’s taken her business to the next level.&nbsp;
 
 If you have questions for Carrie about her experience or anything else, please call or email us. We are always willing to talk\!
 
