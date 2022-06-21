@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Have You Ever Considered a Real Estate Career?
+title: Are You Considering a Real Estate Career?
 date: 2022-06-17 00:00:00
 tags:
   - Real Estate
