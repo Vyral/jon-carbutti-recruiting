@@ -10,7 +10,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/isa-benefits-carbutti-yt.jpg
-youtube_code: GmNka8Pn5Vw
+youtube_code: hVGrTx2LZI8
 ---
 {% include youtube.html %}
 
