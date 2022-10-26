@@ -44,12 +44,13 @@ second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/002.png
     CTA_title2: Career Night
     CTA_text2: >-
-      We would like to invite you to our next career night on Thursday October
-      20, 2022 at 6 PM. You'll get the chance to ask questions, meet our team
+      We would like to invite you to our next career night on Thursday November
+      17th, 2022 at 6 PM. You'll get the chance to ask questions, meet our team
       and get a feel for what working for Carbutti & Co. is all about. Please
       register at the link below. We looking forward to meeting you!
     CTA_link_text2: Register Here
-    CTA_url2: http://www.meetcarbutti.com/
+    CTA_url2: >-
+      https://www.eventbrite.com/e/career-night-carbutti-co-realtors-tickets-449679081237?aff=erelexpmlt
 lender:
   show_section: false
   header_text: Preferred Lender
