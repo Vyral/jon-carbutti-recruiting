@@ -16,7 +16,7 @@ youtube_code: aG1qrZdN4rk
 
 {% include excerpt.html %}
 
-I hope you had a wonderful 2022. We actually had a record-breaking year\! We were the most profitable we've ever been, and we've sold and helped the most families that we've ever helped. I have a feeling that 2023 will be even better.
+I hope you had a wonderful 2022. We actually had a record-breaking year\! We were the most profitable we've ever been, and we've sold the most homes and helped the most families that we've ever helped. I have a feeling that 2023 will be even better.
 
 This is the time of the year when I always reflect on my business. I take this time of the year to think back on what I did right, what I did wrong, what’s working, and what isn’t working. You should be doing the same.
 
