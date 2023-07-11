@@ -23,7 +23,7 @@ Achieving success in the real estate industry requires discipline, consistency, 
 
 While owning a brokerage, I firmly believe in running it as a cohesive team. Unfortunately, the industry often lacks leadership, resulting in multiple ships sailing aimlessly with no captain or direction**. To thrive in real estate, it is crucial to have a well-defined plan in place, supported by the right systems and processes.** By following this plan and utilizing the appropriate tools, you can propel your business forward and achieve your goals.
 
-Working on a team with experienced leadership and dedicated support staff offer numerous advantages. Collaborating with individuals who possess a wealth of knowledge and expertise can help you navigate the complex real estate landscape more effectively. A strong team provides guidance, mentorship, and a sense of camaraderie, enabling you to learn from others' successes and challenges.
+Working on a team with experienced leadership and dedicated support staff offers numerous advantages. Collaborating with individuals who possess a wealth of knowledge and expertise can help you navigate the complex real estate landscape more effectively. A strong team provides guidance, mentorship, and a sense of camaraderie, enabling you to learn from others' successes and challenges.
 
 **{% include pullquote.html %}**
 
