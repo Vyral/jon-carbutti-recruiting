@@ -17,10 +17,6 @@ youtube_alternate_image: >-
   /uploads/vecteezy-businessman-using-a-computer-for-property-sales-listings-7252582-453.jpg
 youtube_code:
 ---
-{% include youtube.html %}
-
-{% include excerpt.html %}
-
 Are you taking full advantage of expired listings? Many real estate agents don’t like to go after expired listings for a variety of reasons. Some don’t like to deal with rejection, while others feel like it’s a waste of time. Here’s the truth: Expired listings are an essential part of any elite agent’s toolkit, and you need to master them to take your business to the next level. Here are three tips to help you get more leads from expired listings:
 
 **1\. Get to them early.** A newly expired listing will quickly attract tons of real estate agents. Therefore, try to be one of the first people to reach the owner by blocking out time for expired-listing prospecting earlier in the day. Typically, you should try to call new expired listings between 8 a.m. and 10 a.m. Then, you can move on to older expired listings later in the day if you still want to do more prospecting.&nbsp;
