@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Master Expired Listings: 3 Tips To Get More Real Estate Leads'
-date:
+date: 2023-08-11 10:00:00
 tags:
   - Transaction Management
   - Reviews and Referrals
