@@ -31,4 +31,4 @@ Beyond the obvious organizational advantages, there are several hidden benefits 
 
 By embracing the structure and consistency that your daily routine provides, you can empower yourself to excel in your roles. If you have any questions on how to create an efficient daily routine or anything else related to this topic, call or email me. I’m always happy to help!
 
-{% include cta-main-box.html %}
+{% include full-post-cta.html %}
